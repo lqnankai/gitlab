@@ -1,0 +1,41 @@
+(b'MThd', 6, 1, 3, 96)
+MTrk length =  12
+MetaEvent : delta_time = 0, status = 255, event_type = 88, length = 4,  data = [4, 2, 24, 8], event type: Time Signature 
+MetaEvent : delta_time = 0, status = 255, event_type = 47, length = 0,  data = [], event type: End of Track 
+MTrk length =  11
+MetaEvent : delta_time = 0, status = 255, event_type = 81, length = 3,  data = [6, 138, 27], event type: Tempo 
+MetaEvent : delta_time = 0, status = 255, event_type = 47, length = 0,  data = [], event type: End of Track 
+MTrk length =  139
+MetaEvent : delta_time = 0, status = 255, event_type = 3, length = 11,  data = [67, 108, 111, 115, 101, 32, 71, 114, 97, 110, 100], event type: Sequence / Track Name 
+MidiEvent : delta_time = 0, status = 224, data = [0, 64], event type: Pitch wheel change
+MidiEvent : delta_time = 0, status = 224, data = [0, 64], event type: Pitch wheel change
+MidiEvent : delta_time = 0, status = 192, data = [0], event type: Program change
+MidiEvent : delta_time = 0, status = 224, data = [0, 64], event type: Pitch wheel change
+MidiEvent : delta_time = 0, status = 192, data = [0], event type: Program change
+MidiEvent : delta_time = 192, status = 144, data = [99, 34], event type: Note on
+MidiEvent : delta_time = 36, status = 128, data = [99, 0], event type: Note off
+MidiEvent : delta_time = 12, status = 144, data = [99, 34], event type: Note on
+MidiEvent : delta_time = 36, status = 128, data = [99, 0], event type: Note off
+MidiEvent : delta_time = 12, status = 144, data = [99, 34], event type: Note on
+MidiEvent : delta_time = 36, status = 128, data = [99, 0], event type: Note off
+MidiEvent : delta_time = 156, status = 144, data = [99, 34], event type: Note on
+MidiEvent : delta_time = 36, status = 128, data = [99, 0], event type: Note off
+MidiEvent : delta_time = 12, status = 144, data = [99, 34], event type: Note on
+MidiEvent : delta_time = 36, status = 128, data = [99, 0], event type: Note off
+MidiEvent : delta_time = 12, status = 144, data = [99, 34], event type: Note on
+MidiEvent : delta_time = 36, status = 128, data = [99, 0], event type: Note off
+MidiEvent : delta_time = 60, status = 144, data = [99, 33], event type: Note on
+MidiEvent : delta_time = 36, status = 128, data = [99, 0], event type: Note off
+MidiEvent : delta_time = 12, status = 144, data = [99, 33], event type: Note on
+MidiEvent : delta_time = 36, status = 128, data = [99, 0], event type: Note off
+MidiEvent : delta_time = 60, status = 144, data = [99, 27], event type: Note on
+MidiEvent : delta_time = 36, status = 128, data = [99, 0], event type: Note off
+MidiEvent : delta_time = 12, status = 144, data = [99, 25], event type: Note on
+MidiEvent : delta_time = 36, status = 128, data = [99, 0], event type: Note off
+MidiEvent : delta_time = 0, status = 224, data = [0, 64], event type: Pitch wheel change
+MidiEvent : delta_time = 0, status = 192, data = [0], event type: Program change
+MidiEvent : delta_time = 0, status = 224, data = [0, 64], event type: Pitch wheel change
+MidiEvent : delta_time = 0, status = 192, data = [0], event type: Program change
+MidiEvent : delta_time = 0, status = 224, data = [0, 64], event type: Pitch wheel change
+MidiEvent : delta_time = 0, status = 192, data = [0], event type: Program change
+MetaEvent : delta_time = 0, status = 255, event_type = 47, length = 0,  data = [], event type: End of Track 

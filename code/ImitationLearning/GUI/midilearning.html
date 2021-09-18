@@ -1,0 +1,154 @@
+<html>
+<head>
+<title>MIDI Music Learning</title>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<script type="text/javascript" src="http://d3js.org/d3.v3.min.js"></script>
+<script type="text/javascript" src="/static/d3/stomp.js"></script>
+<script src="./static/web-midi-api/WebMIDIAPI.min.js"></script>
+<script src="./static/d3/prism.js"></script>
+<script src="./static/d3/main.js"></script>
+<!-- <script type="text/javascript" src="/static/d3/msq.js"></script> -->
+<script type="text/javascript" src="/static/d3/midicontrol.js"></script>
+<script type="text/javascript" src="/static/d3/jquery.js"></script>
+<script type="text/javascript" src="/static/d3/jquery_ui/jquery_ui.js"></script>
+<link rel = "stylesheet" type = "text/css" href="{{ static_url("css/midibase.css")}}">
+<link rel = "stylesheet" type = "text/css" href="{{ static_url("css/piano.css")}}">
+<link rel = "stylesheet" type = "text/css" href="{{ static_url("css/algorithm.css")}}">
+<link rel = "stylesheet" type = "text/css" href="{{ static_url("css/main.css")}}">
+  
+</head>
+  
+<body onload = "midi_init();">
+	<div class = "tracts">
+		<span id = "musicname">MIDI Music</span>
+		<input type ="file" id = "files" style="display: none" onchange="FileImport();"></input>
+		<button id = "openfiles" onclick = "OpenFiles()">Learn Music</button>
+		<button id = "EpisodeButton" onclick = "EpisodeRecall()">Recall</button>
+	</div>
+	<div class = "notes">	
+		
+		<ul class="set">
+		
+		  <li id = "21" class="white a" onclick = "playkey(21)"></li>
+		  <li id = "22" class="black as" onclick = "playkey(22)"></li>
+		  <li id = "23" class="white b" onclick = "playkey(23)"></li>
+		  
+		  <li id = "24" class="white c" onclick = "playkey(24)"></li>
+		  <li id = "25" class="black cs" onclick = "playkey(25)"></li>
+		  <li id = "26" class="white d" onclick = "playkey(26)"></li>
+		  <li id = "27" class="black ds" onclick = "playkey(27)"></li>
+		  <li id = "28" class="white e" onclick = "playkey(28)"></li>
+		  <li id = "29" class="white f" onclick = "playkey(29)"></li>
+		  <li id = "30" class="black fs" onclick = "playkey(30)"></li>
+		  <li id = "31" class="white g" onclick = "playkey(31)"></li>
+		  <li id = "32" class="black gs" onclick = "playkey(32)"></li>
+		  <li id = "33" class="white a" onclick = "playkey(33)"></li>
+		  <li id = "34" class="black as" onclick = "playkey(34)"></li>
+		  <li id = "35" class="white b" onclick = "playkey(35)"></li>
+		  
+		  <li id = "36" class="white c" onclick = "playkey(36)"></li>
+		  <li id = "37" class="black cs" onclick = "playkey(37)"></li>
+		  <li id = "38" class="white d" onclick = "playkey(38)"></li>
+		  <li id = "39" class="black ds" onclick = "playkey(39)"></li>
+		  <li id = "40" class="white e" onclick = "playkey(40)"></li>
+		  <li id = "41" class="white f" onclick = "playkey(41)"></li>
+		  <li id = "42" class="black fs" onclick = "playkey(42)"></li>
+		  <li id = "43" class="white g" onclick = "playkey(43)"></li>
+		  <li id = "44" class="black gs" onclick = "playkey(44)"></li>
+		  <li id = "45" class="white a" onclick = "playkey(45)"></li>
+		  <li id = "46" class="black as" onclick = "playkey(46)"></li>
+		  <li id = "47" class="white b" onclick = "playkey(47)"></li>
+		  
+		  <li id = "48" class="white c" onclick = "playkey(48)"></li>
+		  <li id = "49" class="black cs" onclick = "playkey(49)"></li>
+		  <li id = "50" class="white d" onclick = "playkey(50)"></li>
+		  <li id = "51" class="black ds" onclick = "playkey(51)"></li>
+		  <li id = "52" class="white e" onclick = "playkey(52)"></li>
+		  <li id = "53" class="white f" onclick = "playkey(53)"></li>
+		  <li id = "54" class="black fs" onclick = "playkey(54)"></li>
+		  <li id = "55" class="white g" onclick = "playkey(55)"></li>
+		  <li id = "56" class="black gs" onclick = "playkey(56)"></li>
+		  <li id = "57" class="white a" onclick = "playkey(57)"></li>
+		  <li id = "58" class="black as" onclick = "playkey(58)"></li>
+		  <li id = "59" class="white b" onclick = "playkey(59)"></li>
+		  
+		  <li id = "60" class="white c" onclick = "playkey(60)"></li>
+		  <li id = "61" class="black cs" onclick = "playkey(61)"></li>
+		  <li id = "62" class="white d" onclick = "playkey(62)"></li>
+		  <li id = "63" class="black ds" onclick = "playkey(63)"></li>
+		  <li id = "64" class="white e" onclick = "playkey(64)"></li>		  
+		  <li id = "65" class="white f" onclick = "playkey(65)"></li>
+		  <li id = "66" class="black fs" onclick = "playkey(66)"></li>
+		  <li id = "67" class="white g" onclick = "playkey(67)"></li>
+		  <li id = "68" class="black gs" onclick = "playkey(68)"></li>
+		  <li id = "69" class="white a" onclick = "playkey(69)"></li>
+		  <li id = "70" class="black as" onclick = "playkey(70)"></li>
+		  <li id = "71" class="white b" onclick = "playkey(71)"></li>
+		  
+		  <li id = "72" class="white c" onclick = "playkey(72)"></li>
+		  <li id = "73" class="black cs" onclick = "playkey(73)"></li>
+		  <li id = "74" class="white d" onclick = "playkey(74)"></li>
+		  <li id = "75" class="black ds" onclick = "playkey(75)"></li>
+		  <li id = "76" class="white e" onclick = "playkey(76)"></li>		  
+		  <li id = "77" class="white f" onclick = "playkey(77)"></li>
+		  <li id = "78" class="black fs" onclick = "playkey(78)"></li>
+		  <li id = "79" class="white g" onclick = "playkey(79)"></li>
+		  <li id = "80" class="black gs" onclick = "playkey(80)"></li>
+		  <li id = "81" class="white a" onclick = "playkey(81)"></li>
+		  <li id = "82" class="black as" onclick = "playkey(82)"></li>
+		  <li id = "83" class="white b" onclick = "playkey(83)"></li>
+		  
+		  <li id = "84" class="white c" onclick = "playkey(84)"></li>
+		  <li id = "85" class="black cs" onclick = "playkey(85)"></li>
+		  <li id = "86" class="white d" onclick = "playkey(86)"></li>
+		  <li id = "87" class="black ds" onclick = "playkey(87)"></li>
+		  <li id = "88" class="white e" onclick = "playkey(88)"></li>		  
+		  <li id = "89" class="white f" onclick = "playkey(89)"></li>
+		  <li id = "90" class="black fs" onclick = "playkey(90)"></li>
+		  <li id = "91" class="white g" onclick = "playkey(91)"></li>
+		  <li id = "92" class="black gs" onclick = "playkey(92)"></li>
+		  <li id = "93" class="white a" onclick = "playkey(93)"></li>
+		  <li id = "94" class="black as" onclick = "playkey(94)"></li>
+		  <li id = "95" class="white b" onclick = "playkey(95)"></li>
+		  
+		  <li id = "96" class="white c" onclick = "playkey(96)"></li>
+		  <li id = "97" class="black cs" onclick = "playkey(97)"></li>
+		  <li id = "98" class="white d" onclick = "playkey(98)"></li>
+		  <li id = "99" class="black ds" onclick = "playkey(99)"></li>
+		  <li id = "100" class="white e" onclick = "playkey(100)"></li>		  
+		  <li id = "101" class="white f" onclick = "playkey(101)"></li>
+		  <li id = "102" class="black fs" onclick = "playkey(102)"></li>
+		  <li id = "103" class="white g" onclick = "playkey(103)"></li>
+		  <li id = "104" class="black gs" onclick = "playkey(104)"></li>
+		  <li id = "105" class="white a" onclick = "playkey(105)"></li>
+		  <li id = "106" class="black as" onclick = "playkey(106)"></li>
+		  <li id = "107" class="white b" onclick = "playkey(107)"></li>
+		  
+		</ul>
+	</div> 
+	
+	<!--<a id = "AllNeurons" onclick = "task1()">All Network</a>
+	<a id = "NoteNeurons" onclick = "task2()">Note Network</a>
+	<a id = "TimeNeurons" onclick = "task3()">Time Network</a>-->
+	<div class = "progress-striped" style ="height:2px;" id = "progressbar">
+			<div class = "bar" style="width:0%; height:2px; background-color:004080"></div>
+	</div>
+	<div class = "algorithmfield"  style = "height:100%;">
+		<div id = "device" class = "dv">
+			<div id="container" class="cf">
+		        <div id="inputs"></div>
+		        <div id="outputs"></div>
+		    </div>
+		    <h4 style = "color:white">incoming midi events:</h4>
+		    <div id="log" style = "color:FFA500"></div>
+		    
+		    <!-- <button id = "PlayMidi" onclick = "PlayMidi()">PlayMidi</button> -->
+		    <pre class="line-numbers" data-src="./static/d3/main.js"></pre>
+	    </div>
+	    <div id = "graphfield" style = "height:100%;"></div>
+	    
+	</div>
+	
+</body>
+
+</html>

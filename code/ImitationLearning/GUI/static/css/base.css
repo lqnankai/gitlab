@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+body, html{width:100%;}
+body{
+	font:normal Tahoma, Arial, sans-serif; cursor:default;
+	margin:0px;
+	background-color:3F2860;
+	-webkit-text-size-adjust:none; -webkit-user-select:none;
+}

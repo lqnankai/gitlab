@@ -1,0 +1,126 @@
+<html>
+<head>
+<title>Music Learning</title>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<script type="text/javascript" src="/static/d3/d3.min.js"></script>
+<script type="text/javascript" src="/static/d3/test.js"></script>
+<script type="text/javascript" src="/static/d3/neurons.js"></script>
+<script type="text/javascript" src="/static/d3/musiccontrol.js"></script>
+<script type="text/javascript" src="/static/d3/jquery.js"></script>
+
+<script type="text/javascript" src="/static/d3/jquery_ui/jquery_ui.js"></script>
+<script type="text/javascript" src="/static/d3/Highcharts/code/highcharts.js"></script>
+<script type="text/javascript" src="/static/d3/Highcharts/code/modules/exporting.js"></script>
+<script type="text/javascript" src="/static/d3/Highcharts/code/themes/dark-unica.js"></script>
+<link rel = "stylesheet" type = "text/css" href="{{ static_url("css/base.css")}}">
+<link rel = "stylesheet" type = "text/css" href="{{ static_url("css/piano.css")}}">
+<link rel = "stylesheet" type = "text/css" href="{{ static_url("css/algorithm.css")}}">
+  
+</head>
+<body onload = "svginit();">
+	<div class = "inputfield">
+			<a id = "GoalName">Music Name</a><input type = "text" id = "goal" value="For Elise"></input>		
+			<button id = "remember" onclick = "Remember()"> Remember</button>
+			<button id = "recall" onclick = "Recall2()"> Recall</button>
+			<button id = "notesrecall" onclick = "NotesRecall()">Episode</button>
+			<button id = "ok" onclick = "StopPlay()">OK</button>
+			
+			<div class="progress progress-striped" style="height: 3px;" id="progressbar">
+				<div class="bar" style="width: 0%; height: 3px;"></div>
+			</div>
+			
+	</div>
+	<!-- <div id = "clock" style="height: 200px;">
+	<script type="text/javascript" src="/static/d3/clock.js"></script>
+	</div> -->
+	<div class = "notes">	
+		<!-- <a id = "dol" onclick="playDol()">Do</a>
+		<a id = "Re" onclick="playRe()">Re</a>			
+	
+		<a id = "Me" onclick="playMe()">Me</a>
+		<a id = "fa" onclick="playFa()"> Fa</a>
+		<a id = "sol" onclick="playSol()">Sol</a>
+	
+		<a id = "la" onclick="playLa()"> La</a>
+		<a id = "si" onclick="playSi()">Si</a> -->
+		
+		<ul class="set">
+		
+		<li class="white c" onclick = "playkey(16)"></li>
+		  <li class="black cs" onclick = "playkey(17)"></li>
+		  <li class="white d" onclick = "playkey(18)"></li>
+		  <li class="black ds" onclick = "playkey(19)"></li>
+		  <li class="white e" onclick = "playkey(20)"></li>
+		  <li class="white f" onclick = "playkey(21)"></li>
+		  <li class="black fs" onclick = "playkey(22)"></li>
+		  <li class="white g" onclick = "playkey(23)"></li>
+		  <li class="black gs" onclick = "playkey(24)"></li>
+		  <li class="white a" onclick = "playkey(25)"></li>
+		  <li class="black as" onclick = "playkey(26)"></li>
+		  <li class="white b" onclick = "playkey(27)"></li>
+		  <li class="white c" onclick = "playkey(28)"></li>
+		  <li class="black cs" onclick = "playkey(29)"></li>
+		  <li class="white d" onclick = "playkey(30)"></li>
+		  <li class="black ds" onclick = "playkey(31)"></li>
+		  <li class="white e" onclick = "playkey(32)"></li>
+		  
+		  <li class="white f" onclick = "playkey(33)"></li>
+		  <li class="black fs" onclick = "playkey(34)"></li>
+		  <li class="white g" onclick = "playkey(35)"></li>
+		  <li class="black gs" onclick = "playkey(36)"></li>
+		  <li class="white a" onclick = "playkey(37)"></li>
+		  <li class="black as" onclick = "playkey(38)"></li>
+		  <li class="white b" onclick = "playkey(39)"></li>
+		  <li class="white c" onclick = "playkey(40)"></li>
+		  <li class="black cs" onclick = "playkey(41)"></li>
+		  <li class="white d" onclick = "playkey(42)"></li>
+		  <li class="black ds" onclick = "playkey(43)"></li>
+		  <li class="white e" onclick = "playkey(44)"></li>
+		  
+		  <li class="white f" onclick = "playkey(45)"></li>
+		  <li class="black fs" onclick = "playkey(46)"></li>
+		  <li class="white g" onclick = "playkey(47)"></li>
+		  <li class="black gs" onclick = "playkey(48)"></li>
+		  <li class="white a" onclick = "playkey(49)"></li>
+		  <li class="black as" onclick = "playkey(50)"></li>
+		  <li class="white b" onclick = "playkey(51)"></li>
+		  <li class="white c" onclick = "playkey(52)"></li>
+		  <li class="black cs" onclick = "playkey(53)"></li>
+		  <li class="white d" onclick = "playkey(54)"></li>
+		  <li class="black ds" onclick = "playkey(55)"></li>
+		  <li class="white e" onclick = "playkey(56)"></li>
+		  
+		  <li class="white f" onclick = "playkey(57)"></li>
+		  <li class="black fs" onclick = "playkey(58)"></li>
+		  <li class="white g" onclick = "playkey(59)"></li>
+		  <li class="black gs" onclick = "playkey(60)"></li>
+		  <li class="white a" onclick = "playkey(61)"></li>
+		  <li class="black as" onclick = "playkey(62)"></li>
+		  <li class="white b" onclick = "playkey(63)"></li>
+		  <li class="white c" onclick = "playkey(64)"></li>
+		  <li class="black cs" onclick = "playkey(65)"></li>
+		  <li class="white d" onclick = "playkey(66)"></li>
+		  <li class="black ds" onclick = "playkey(67)"></li>
+		  <li class="white e" onclick = "playkey(68)"></li>
+		  
+		  <li class="white f" onclick = "playkey(69)"></li>
+		  <li class="black fs" onclick = "playkey(70)"></li>
+		  <li class="white g" onclick = "playkey(71)"></li>
+		  <li class="black gs" onclick = "playkey(72)"></li>
+		  <li class="white a" onclick = "playkey(73)"></li>
+		  <li class="black as" onclick = "playkey(74)"></li>
+		  <li class="white b" onclick = "playkey(75)"></li>
+		  
+		</ul>
+		
+		<audio id = "keymp3"></audio>	
+	</div>
+	<div class = "resultfield" id = "resultarea">
+		<table id="rtable" style="word-break: keep-all"></table>
+		<p id = "resultnotes"></p>
+	</div>
+	<div class = "algorithmfield">
+	</div>
+	
+</body>
+</html>

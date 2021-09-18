@@ -1,0 +1,44 @@
+<html>  
+<head>  
+    <title>js</title>  
+</head>  
+<body>  
+  
+    <input id="bt" type="button" value="BT" >  
+      
+    <script type="text/javascript">  
+       var count = 2;  
+       var music;  
+      
+        var bt = document.getElementById("bt");       
+        bt.addEventListener("click",function() {  
+            count = 2;  
+            a();  
+        });  
+          
+        // html5：audio声音多次播放  
+        function a() {  
+            if (!music) {  
+                music = new Audio();  
+                music.addEventListener("ended", function (){  
+                    if (count > 0) {  
+                        a();  
+                    }  
+                });  
+            } else {  
+                music.pause();  
+            }  
+              
+            music.src = 'dol.mp3';  
+            music.play();  
+              
+            console.log(count);  
+            count--;  
+        }  
+          
+    </script>  
+      
+</body>  
+  
+  
+</html>  

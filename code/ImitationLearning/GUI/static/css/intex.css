@@ -1,0 +1,57 @@
+@charset "utf-8";
+body, html{width:100%;}
+body{
+	font:normal Tahoma, Arial, sans-serif; cursor:default;
+	margin:0px;
+	-webkit-text-size-adjust:none; -webkit-user-select:none;
+}
+.main{
+	overflow:hidden;
+	margin-left:400px;
+	padding:0;
+	width:100%;
+	height:100%;
+}
+
+.main a{
+	display:inline-block;
+	text-decoration:none;
+	font-size:15px;
+	font-weight:200;
+	line-height:50px;
+	text-align:center;
+	width:180px;
+	
+	height:50px;
+	margin-top:400px;
+	
+	color: #8c96a0;
+	text-shadow:1px 1px 1px #fff;
+	border:1px solid #dce1e6;
+	box-shadow: 0 1px 2px #fff inset,0 -1px 0 #a8abae inset;
+	background: -webkit-linear-gradient(top,#f2f3f7,#e4e8ec);
+	background: -moz-linear-gradient(top,#f2f3f7,#e4e8ec);
+	background: linear-gradient(top,#f2f3f7,#e4e8ec);
+	/* Gecko browsers */
+	-moz-border-radius-topleft: 15px;
+	-moz-border-radius-topright: 15px;
+	-moz-border-radius-bottomleft: 15px;
+	-moz-border-radius-bottomright: 15px;
+	 
+	/* Webkit browsers */
+	-webkit-border-top-left-radius: 15px;
+	-webkit-border-top-right-radius: 15px;
+	-webkit-border-bottom-left-radius: 15px;
+	-webkit-border-bottom-right-radius: 15px;
+	 
+	/* W3C syntax */
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	border-bottom-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+
+}
+
+#actionlearning {
+	margin-left:30px;
+}

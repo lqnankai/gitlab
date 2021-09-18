@@ -1,0 +1,2014 @@
+(b'MThd', 6, 1, 7, 480)
+MTrk length =  2213
+MetaEvent : delta_time = 0, status = 255, event_type = 3, length = 20,  data = [86, 246, 103, 108, 101, 105, 110, 32, 79, 112, 32, 52, 51, 44, 32, 78, 111, 46, 32, 52], event type: Sequence / Track Name 
+MetaEvent : delta_time = 0, status = 255, event_type = 2, length = 51,  data = [67, 111, 112, 121, 114, 105, 103, 104, 116, 32, 169, 32, 49, 57, 57, 56, 32, 98, 121, 32, 75, 114, 252, 103, 101, 114, 32, 104, 116, 116, 112, 58, 47, 47, 119, 119, 119, 46, 112, 105, 97, 110, 111, 45, 109, 105, 100, 105, 46, 100, 101], event type: Copyright 
+MetaEvent : delta_time = 0, status = 255, event_type = 1, length = 12,  data = [69, 100, 118, 97, 114, 100, 32, 71, 114, 105, 101, 103], event type: Text 
+MetaEvent : delta_time = 0, status = 255, event_type = 1, length = 16,  data = [65, 108, 108, 101, 103, 114, 111, 32, 108, 101, 103, 103, 105, 111, 114, 101], event type: Text 
+MetaEvent : delta_time = 0, status = 255, event_type = 1, length = 26,  data = [70, 101, 114, 116, 105, 103, 103, 101, 115, 116, 101, 108, 108, 116, 32, 97, 109, 32, 49, 54, 46, 51, 46, 57, 56, 10], event type: Text 
+MetaEvent : delta_time = 0, status = 255, event_type = 1, length = 22,  data = [75, 111, 114, 114, 101, 107, 116, 117, 114, 101, 110, 32, 97, 109, 32, 52, 46, 57, 46, 57, 56, 10], event type: Text 
+MetaEvent : delta_time = 0, status = 255, event_type = 1, length = 40,  data = [65, 110, 112, 97, 115, 115, 117, 110, 103, 101, 110, 32, 97, 110, 32, 68, 105, 103, 105, 116, 97, 108, 112, 105, 97, 110, 111, 32, 97, 109, 32, 50, 56, 46, 49, 50, 46, 57, 56, 10], event type: Text 
+MetaEvent : delta_time = 0, status = 255, event_type = 1, length = 18,  data = [85, 112, 100, 97, 116, 101, 32, 97, 109, 32, 49, 57, 46, 56, 46, 57, 57, 10], event type: Text 
+MetaEvent : delta_time = 0, status = 255, event_type = 1, length = 23,  data = [78, 111, 114, 109, 105, 101, 114, 117, 110, 103, 58, 32, 50, 51, 46, 49, 50, 46, 50, 48, 48, 50, 10], event type: Text 
+MetaEvent : delta_time = 0, status = 255, event_type = 1, length = 39,  data = [85, 112, 100, 97, 116, 101, 58, 32, 50, 55, 46, 52, 46, 50, 48, 48, 55, 32, 40, 85, 109, 115, 116, 101, 108, 108, 117, 110, 103, 32, 97, 117, 102, 32, 99, 119, 112, 41, 10], event type: Text 
+MetaEvent : delta_time = 0, status = 255, event_type = 1, length = 18,  data = [85, 112, 100, 97, 116, 101, 58, 32, 54, 46, 49, 49, 46, 50, 48, 49, 50, 10], event type: Text 
+MetaEvent : delta_time = 0, status = 255, event_type = 1, length = 20,  data = [68, 97, 117, 101, 114, 58, 32, 49, 58, 51, 55, 32, 77, 105, 110, 117, 116, 101, 110, 10], event type: Text 
+MetaEvent : delta_time = 0, status = 255, event_type = 84, length = 5,  data = [96, 0, 3, 0, 0], event type: SMPTE Offset 
+MetaEvent : delta_time = 0, status = 255, event_type = 88, length = 4,  data = [6, 3, 12, 8], event type: Time Signature 
+MetaEvent : delta_time = 0, status = 255, event_type = 89, length = 2,  data = [255, 0], event type: Key Signature 
+MetaEvent : delta_time = 0, status = 255, event_type = 81, length = 3,  data = [5, 50, 42], event type: Tempo 
+MetaEvent : delta_time = 0, status = 255, event_type = 6, length = 11,  data = [76, 105, 116, 116, 108, 101, 32, 66, 105, 114, 100], event type: Marker 
+MetaEvent : delta_time = 1200, status = 255, event_type = 81, length = 3,  data = [6, 202, 77], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [8, 46, 177], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [9, 16, 139], event type: Tempo 
+MetaEvent : delta_time = 720, status = 255, event_type = 81, length = 3,  data = [6, 254, 55], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [8, 46, 177], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [9, 87, 149], event type: Tempo 
+MetaEvent : delta_time = 720, status = 255, event_type = 81, length = 3,  data = [6, 224, 60], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [7, 5, 232], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [6, 216, 220], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [6, 254, 55], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [6, 224, 60], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [8, 46, 177], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [8, 238, 150], event type: Tempo 
+MetaEvent : delta_time = 720, status = 255, event_type = 81, length = 3,  data = [7, 112, 64], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [8, 46, 177], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [8, 100, 66], event type: Tempo 
+MetaEvent : delta_time = 720, status = 255, event_type = 81, length = 3,  data = [7, 147, 99], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [8, 100, 66], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [9, 10, 150], event type: Tempo 
+MetaEvent : delta_time = 600, status = 255, event_type = 81, length = 3,  data = [5, 111, 199], event type: Tempo 
+MetaEvent : delta_time = 120, status = 255, event_type = 81, length = 3,  data = [7, 29, 97], event type: Tempo 
+MetaEvent : delta_time = 220, status = 255, event_type = 81, length = 3,  data = [8, 100, 66], event type: Tempo 
+MetaEvent : delta_time = 360, status = 255, event_type = 81, length = 3,  data = [6, 146, 102], event type: Tempo 
+MetaEvent : delta_time = 20, status = 255, event_type = 81, length = 3,  data = [5, 121, 24], event type: Tempo 
+MetaEvent : delta_time = 120, status = 255, event_type = 81, length = 3,  data = [7, 29, 97], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [8, 100, 66], event type: Tempo 
+MetaEvent : delta_time = 360, status = 255, event_type = 81, length = 3,  data = [5, 121, 24], event type: Tempo 
+MetaEvent : delta_time = 120, status = 255, event_type = 81, length = 3,  data = [7, 45, 95], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [7, 231, 202], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [8, 180, 83], event type: Tempo 
+MetaEvent : delta_time = 720, status = 255, event_type = 81, length = 3,  data = [6, 202, 77], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [8, 46, 177], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [9, 5, 29], event type: Tempo 
+MetaEvent : delta_time = 720, status = 255, event_type = 81, length = 3,  data = [6, 254, 55], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [8, 46, 177], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [9, 75, 113], event type: Tempo 
+MetaEvent : delta_time = 720, status = 255, event_type = 81, length = 3,  data = [6, 224, 60], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [7, 5, 232], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [6, 216, 220], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [6, 254, 55], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [6, 224, 60], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [8, 46, 177], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [8, 205, 155], event type: Tempo 
+MetaEvent : delta_time = 720, status = 255, event_type = 81, length = 3,  data = [7, 112, 64], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [8, 46, 177], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [8, 100, 66], event type: Tempo 
+MetaEvent : delta_time = 720, status = 255, event_type = 81, length = 3,  data = [7, 147, 99], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [8, 100, 66], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [9, 63, 109], event type: Tempo 
+MetaEvent : delta_time = 600, status = 255, event_type = 81, length = 3,  data = [5, 111, 199], event type: Tempo 
+MetaEvent : delta_time = 120, status = 255, event_type = 81, length = 3,  data = [7, 29, 97], event type: Tempo 
+MetaEvent : delta_time = 220, status = 255, event_type = 81, length = 3,  data = [8, 100, 66], event type: Tempo 
+MetaEvent : delta_time = 360, status = 255, event_type = 81, length = 3,  data = [6, 146, 102], event type: Tempo 
+MetaEvent : delta_time = 20, status = 255, event_type = 81, length = 3,  data = [5, 121, 24], event type: Tempo 
+MetaEvent : delta_time = 120, status = 255, event_type = 81, length = 3,  data = [7, 29, 97], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [8, 100, 66], event type: Tempo 
+MetaEvent : delta_time = 360, status = 255, event_type = 81, length = 3,  data = [5, 121, 24], event type: Tempo 
+MetaEvent : delta_time = 120, status = 255, event_type = 81, length = 3,  data = [7, 45, 95], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [7, 138, 113], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [8, 180, 83], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [9, 189, 90], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [7, 169, 76], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [9, 189, 90], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [6, 246, 82], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [7, 60, 196], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [7, 169, 76], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [9, 176, 41], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [7, 3, 250], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [7, 53, 121], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [7, 169, 76], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [7, 24, 220], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [7, 153, 5], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [7, 24, 220], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [7, 137, 3], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [7, 27, 30], event type: Tempo 
+MetaEvent : delta_time = 720, status = 255, event_type = 81, length = 3,  data = [7, 113, 125], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [7, 10, 226], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [7, 98, 31], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [5, 214, 18], event type: Tempo 
+MetaEvent : delta_time = 720, status = 255, event_type = 81, length = 3,  data = [5, 237, 48], event type: Tempo 
+MetaEvent : delta_time = 720, status = 255, event_type = 81, length = 3,  data = [6, 36, 253], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [6, 102, 252], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [6, 156, 61], event type: Tempo 
+MetaEvent : delta_time = 720, status = 255, event_type = 81, length = 3,  data = [6, 193, 180], event type: Tempo 
+MetaEvent : delta_time = 720, status = 255, event_type = 81, length = 3,  data = [6, 232, 222], event type: Tempo 
+MetaEvent : delta_time = 360, status = 255, event_type = 81, length = 3,  data = [7, 75, 136], event type: Tempo 
+MetaEvent : delta_time = 360, status = 255, event_type = 81, length = 3,  data = [9, 63, 109], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [7, 97, 53], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [6, 36, 253], event type: Tempo 
+MetaEvent : delta_time = 720, status = 255, event_type = 81, length = 3,  data = [8, 92, 105], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [7, 31, 238], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [6, 42, 72], event type: Tempo 
+MetaEvent : delta_time = 680, status = 255, event_type = 81, length = 3,  data = [6, 143, 68], event type: Tempo 
+MetaEvent : delta_time = 40, status = 255, event_type = 81, length = 3,  data = [8, 132, 60], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [6, 187, 88], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [5, 219, 207], event type: Tempo 
+MetaEvent : delta_time = 1440, status = 255, event_type = 81, length = 3,  data = [6, 35, 185], event type: Tempo 
+MetaEvent : delta_time = 720, status = 255, event_type = 81, length = 3,  data = [9, 183, 0], event type: Tempo 
+MetaEvent : delta_time = 720, status = 255, event_type = 81, length = 3,  data = [7, 161, 32], event type: Tempo 
+MetaEvent : delta_time = 60, status = 255, event_type = 81, length = 3,  data = [6, 223, 146], event type: Tempo 
+MetaEvent : delta_time = 180, status = 255, event_type = 81, length = 3,  data = [8, 53, 19], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [8, 216, 126], event type: Tempo 
+MetaEvent : delta_time = 720, status = 255, event_type = 81, length = 3,  data = [6, 216, 19], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [8, 63, 125], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [8, 216, 126], event type: Tempo 
+MetaEvent : delta_time = 720, status = 255, event_type = 81, length = 3,  data = [6, 208, 230], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [6, 253, 66], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [6, 201, 168], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [6, 253, 66], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [6, 201, 168], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [7, 68, 68], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [7, 127, 96], event type: Tempo 
+MetaEvent : delta_time = 720, status = 255, event_type = 81, length = 3,  data = [6, 223, 146], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [8, 63, 125], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [8, 186, 69], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [7, 169, 76], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [6, 230, 222], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [8, 117, 84], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [9, 99, 217], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [8, 7, 236], event type: Tempo 
+MetaEvent : delta_time = 360, status = 255, event_type = 81, length = 3,  data = [5, 122, 197], event type: Tempo 
+MetaEvent : delta_time = 120, status = 255, event_type = 81, length = 3,  data = [6, 166, 176], event type: Tempo 
+MetaEvent : delta_time = 220, status = 255, event_type = 81, length = 3,  data = [8, 117, 84], event type: Tempo 
+MetaEvent : delta_time = 20, status = 255, event_type = 81, length = 3,  data = [7, 218, 241], event type: Tempo 
+MetaEvent : delta_time = 340, status = 255, event_type = 81, length = 3,  data = [6, 159, 233], event type: Tempo 
+MetaEvent : delta_time = 20, status = 255, event_type = 81, length = 3,  data = [5, 132, 39], event type: Tempo 
+MetaEvent : delta_time = 120, status = 255, event_type = 81, length = 3,  data = [6, 194, 153], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [7, 199, 205], event type: Tempo 
+MetaEvent : delta_time = 360, status = 255, event_type = 81, length = 3,  data = [5, 132, 39], event type: Tempo 
+MetaEvent : delta_time = 120, status = 255, event_type = 81, length = 3,  data = [6, 208, 230], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [7, 20, 93], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [8, 198, 12], event type: Tempo 
+MetaEvent : delta_time = 321, status = 255, event_type = 81, length = 3,  data = [9, 189, 90], event type: Tempo 
+MetaEvent : delta_time = 399, status = 255, event_type = 81, length = 3,  data = [7, 153, 5], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [9, 189, 90], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [6, 246, 82], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [7, 60, 196], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [7, 169, 76], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [9, 176, 41], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [7, 3, 250], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [7, 53, 121], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [7, 169, 76], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [7, 24, 220], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [7, 153, 5], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [7, 24, 220], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [7, 137, 3], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [7, 27, 30], event type: Tempo 
+MetaEvent : delta_time = 720, status = 255, event_type = 81, length = 3,  data = [7, 113, 125], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [7, 10, 226], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [7, 98, 31], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [5, 214, 18], event type: Tempo 
+MetaEvent : delta_time = 720, status = 255, event_type = 81, length = 3,  data = [5, 237, 48], event type: Tempo 
+MetaEvent : delta_time = 720, status = 255, event_type = 81, length = 3,  data = [6, 36, 253], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [6, 102, 252], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [6, 156, 61], event type: Tempo 
+MetaEvent : delta_time = 720, status = 255, event_type = 81, length = 3,  data = [6, 193, 180], event type: Tempo 
+MetaEvent : delta_time = 720, status = 255, event_type = 81, length = 3,  data = [6, 232, 222], event type: Tempo 
+MetaEvent : delta_time = 360, status = 255, event_type = 81, length = 3,  data = [7, 75, 136], event type: Tempo 
+MetaEvent : delta_time = 360, status = 255, event_type = 81, length = 3,  data = [9, 63, 109], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [7, 97, 53], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [6, 36, 253], event type: Tempo 
+MetaEvent : delta_time = 720, status = 255, event_type = 81, length = 3,  data = [8, 92, 105], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [7, 31, 238], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [6, 42, 72], event type: Tempo 
+MetaEvent : delta_time = 680, status = 255, event_type = 81, length = 3,  data = [6, 143, 68], event type: Tempo 
+MetaEvent : delta_time = 40, status = 255, event_type = 81, length = 3,  data = [8, 132, 60], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [6, 187, 88], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [5, 219, 207], event type: Tempo 
+MetaEvent : delta_time = 1440, status = 255, event_type = 81, length = 3,  data = [6, 35, 185], event type: Tempo 
+MetaEvent : delta_time = 720, status = 255, event_type = 81, length = 3,  data = [9, 183, 0], event type: Tempo 
+MetaEvent : delta_time = 720, status = 255, event_type = 81, length = 3,  data = [7, 161, 32], event type: Tempo 
+MetaEvent : delta_time = 60, status = 255, event_type = 81, length = 3,  data = [6, 223, 146], event type: Tempo 
+MetaEvent : delta_time = 180, status = 255, event_type = 81, length = 3,  data = [8, 53, 19], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [8, 216, 126], event type: Tempo 
+MetaEvent : delta_time = 720, status = 255, event_type = 81, length = 3,  data = [6, 216, 19], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [8, 63, 125], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [8, 238, 150], event type: Tempo 
+MetaEvent : delta_time = 720, status = 255, event_type = 81, length = 3,  data = [6, 208, 230], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [6, 253, 66], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [6, 201, 168], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [6, 253, 66], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [6, 201, 168], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [7, 68, 68], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [7, 127, 96], event type: Tempo 
+MetaEvent : delta_time = 720, status = 255, event_type = 81, length = 3,  data = [6, 223, 146], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [8, 63, 125], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [8, 186, 69], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [7, 228, 121], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [7, 211, 53], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [6, 230, 222], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [8, 117, 84], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [9, 29, 5], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [8, 7, 236], event type: Tempo 
+MetaEvent : delta_time = 360, status = 255, event_type = 81, length = 3,  data = [5, 122, 197], event type: Tempo 
+MetaEvent : delta_time = 120, status = 255, event_type = 81, length = 3,  data = [6, 166, 176], event type: Tempo 
+MetaEvent : delta_time = 220, status = 255, event_type = 81, length = 3,  data = [8, 117, 84], event type: Tempo 
+MetaEvent : delta_time = 20, status = 255, event_type = 81, length = 3,  data = [7, 218, 241], event type: Tempo 
+MetaEvent : delta_time = 340, status = 255, event_type = 81, length = 3,  data = [6, 159, 233], event type: Tempo 
+MetaEvent : delta_time = 20, status = 255, event_type = 81, length = 3,  data = [5, 132, 39], event type: Tempo 
+MetaEvent : delta_time = 120, status = 255, event_type = 81, length = 3,  data = [6, 194, 153], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [7, 199, 205], event type: Tempo 
+MetaEvent : delta_time = 360, status = 255, event_type = 81, length = 3,  data = [5, 132, 39], event type: Tempo 
+MetaEvent : delta_time = 120, status = 255, event_type = 81, length = 3,  data = [6, 208, 230], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [7, 20, 93], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [8, 198, 12], event type: Tempo 
+MetaEvent : delta_time = 321, status = 255, event_type = 81, length = 3,  data = [9, 189, 90], event type: Tempo 
+MetaEvent : delta_time = 399, status = 255, event_type = 81, length = 3,  data = [7, 169, 76], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [9, 189, 90], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [6, 246, 82], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [7, 60, 196], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [7, 169, 76], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [9, 176, 41], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [7, 3, 250], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [7, 53, 121], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [7, 169, 76], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [6, 226, 56], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [7, 46, 60], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [6, 219, 158], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [7, 39, 14], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [6, 219, 158], event type: Tempo 
+MetaEvent : delta_time = 480, status = 255, event_type = 81, length = 3,  data = [6, 187, 88], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [6, 219, 158], event type: Tempo 
+MetaEvent : delta_time = 720, status = 255, event_type = 81, length = 3,  data = [6, 157, 181], event type: Tempo 
+MetaEvent : delta_time = 720, status = 255, event_type = 81, length = 3,  data = [6, 179, 199], event type: Tempo 
+MetaEvent : delta_time = 1440, status = 255, event_type = 81, length = 3,  data = [7, 88, 29], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [7, 182, 132], event type: Tempo 
+MetaEvent : delta_time = 240, status = 255, event_type = 81, length = 3,  data = [7, 246, 11], event type: Tempo 
+MetaEvent : delta_time = 720, status = 255, event_type = 81, length = 3,  data = [9, 87, 149], event type: Tempo 
+MetaEvent : delta_time = 1008, status = 255, event_type = 6, length = 4,  data = [70, 105, 110, 101], event type: Marker 
+MetaEvent : delta_time = 0, status = 255, event_type = 47, length = 0,  data = [], event type: End of Track 
+MTrk length =  2956
+MetaEvent : delta_time = 0, status = 255, event_type = 3, length = 11,  data = [80, 105, 97, 110, 111, 32, 114, 105, 103, 104, 116], event type: Sequence / Track Name 
+MidiEvent : delta_time = 0, status = 192, data = [0], event type: Program change
+MetaEvent : delta_time = 0, status = 255, event_type = 1, length = 32,  data = [98, 100, 99, 97, 52, 50, 54, 100, 49, 48, 52, 97, 50, 54, 97, 99, 57, 100, 99, 98, 48, 55, 48, 52, 52, 55, 53, 56, 55, 53, 50, 51], event type: Text 
+MidiEvent : delta_time = 4, status = 144, data = [81, 43], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [82, 38], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 43], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [82, 39], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 49], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 1080, status = 144, data = [86, 44], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [86, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [88, 40], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [88, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [86, 44], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [86, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [88, 42], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [88, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [86, 50], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [86, 0], event type: Note on
+MidiEvent : delta_time = 1080, status = 144, data = [81, 49], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [82, 44], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 49], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [82, 44], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 52], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [77, 48], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [79, 45], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [79, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 48], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [79, 45], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [79, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 56], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [81, 49], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [82, 44], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 49], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [82, 44], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 54], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 1080, status = 144, data = [84, 48], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [84, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [86, 45], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [86, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [84, 48], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [84, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [86, 45], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [86, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [84, 68], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [84, 0], event type: Note on
+MidiEvent : delta_time = 1080, status = 144, data = [88, 48], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [88, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [89, 44], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [89, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [88, 48], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [88, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [89, 45], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [89, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [88, 67], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [88, 0], event type: Note on
+MidiEvent : delta_time = 960, status = 144, data = [80, 54], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [80, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [76, 54], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [76, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [72, 49], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [68, 49], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [68, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [72, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [80, 54], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [80, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [76, 54], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [76, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [68, 50], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [72, 50], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [72, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [68, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [81, 54], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [76, 54], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [76, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [69, 56], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [60, 55], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [69, 55], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [60, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [69, 55], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [60, 55], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [60, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [81, 43], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [82, 38], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 43], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [82, 39], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 49], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 1080, status = 144, data = [86, 44], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [86, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [88, 40], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [88, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [86, 44], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [86, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [88, 42], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [88, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [86, 50], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [86, 0], event type: Note on
+MidiEvent : delta_time = 1080, status = 144, data = [81, 49], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [82, 44], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 49], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [82, 44], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 52], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [77, 48], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [79, 45], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [79, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 48], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [79, 45], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [79, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 56], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [81, 49], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [82, 44], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 49], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [82, 44], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 54], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 1080, status = 144, data = [84, 48], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [84, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [86, 45], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [86, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [84, 48], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [84, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [86, 45], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [86, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [84, 68], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [84, 0], event type: Note on
+MidiEvent : delta_time = 1080, status = 144, data = [88, 48], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [88, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [89, 44], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [89, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [88, 48], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [88, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [89, 45], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [89, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [88, 67], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [88, 0], event type: Note on
+MidiEvent : delta_time = 960, status = 144, data = [80, 54], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [80, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [76, 54], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [76, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [68, 49], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [72, 49], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [72, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [68, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [80, 54], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [80, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [76, 54], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [76, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [68, 50], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [72, 50], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [72, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [68, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [81, 54], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [76, 54], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [76, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [69, 56], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [60, 57], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [69, 57], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [60, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [60, 57], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [69, 57], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [60, 0], event type: Note on
+MidiEvent : delta_time = 840, status = 144, data = [52, 40], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 40], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [52, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 43], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [64, 49], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 49], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [52, 49], event type: Note on
+MidiEvent : delta_time = 720, status = 144, data = [52, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [62, 40], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [52, 40], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [52, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 45], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [62, 48], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 48], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [52, 48], event type: Note on
+MidiEvent : delta_time = 720, status = 144, data = [52, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 480, status = 144, data = [64, 40], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 40], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [52, 40], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [52, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 600, status = 144, data = [64, 40], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 40], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [52, 40], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [52, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 480, status = 144, data = [61, 48], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [52, 48], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [52, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [61, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 48], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [52, 48], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [61, 48], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 48], event type: Note on
+MidiEvent : delta_time = 720, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [61, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [52, 0], event type: Note on
+MidiEvent : delta_time = 480, status = 144, data = [69, 76], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [71, 69], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [71, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [69, 69], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [71, 69], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [71, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [68, 68], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [68, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [67, 73], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [67, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [69, 67], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [67, 67], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [67, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [69, 67], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [66, 67], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [66, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [65, 70], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [65, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [67, 62], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [67, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [65, 62], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [65, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [67, 62], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [67, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 62], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [62, 68], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 60], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 60], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 60], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [61, 60], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [61, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [60, 64], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [60, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 57], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [60, 58], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [60, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 58], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [59, 58], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [59, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [58, 62], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [58, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 55], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [58, 54], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [58, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 54], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [57, 68], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [57, 0], event type: Note on
+MidiEvent : delta_time = 1080, status = 144, data = [70, 74], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [70, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [76, 64], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [76, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [70, 64], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [70, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [76, 64], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [76, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [69, 64], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 1080, status = 144, data = [82, 81], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [88, 74], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [88, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [82, 74], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [88, 74], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [88, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 74], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 1080, status = 144, data = [94, 86], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [94, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [100, 78], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [100, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [94, 78], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [94, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [100, 78], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [100, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [93, 78], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [93, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [82, 81], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [88, 68], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [88, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [82, 68], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [88, 68], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [88, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 68], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [70, 69], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [70, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [76, 55], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [76, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [70, 55], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [70, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [76, 55], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [76, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [69, 55], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [58, 56], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [58, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 44], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [58, 44], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [58, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 46], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [57, 46], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [57, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [81, 49], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [82, 43], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 49], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [82, 44], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 57], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [82, 60], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 58], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 55], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 52], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [69, 50], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 480, status = 144, data = [86, 50], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [86, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [88, 46], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [88, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [86, 50], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [86, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [88, 48], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [88, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [86, 57], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [86, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [88, 56], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [88, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [86, 55], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [86, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [83, 52], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [83, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [79, 51], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [79, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 49], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 480, status = 144, data = [81, 56], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [82, 50], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 56], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [82, 50], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 60], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [77, 55], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [79, 51], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [79, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 55], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [79, 51], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [79, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 64], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [81, 56], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [82, 50], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 56], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [82, 50], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 61], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [82, 56], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 51], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 49], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 44], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [69, 42], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 480, status = 144, data = [81, 55], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [82, 51], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 55], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [82, 51], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 72], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [82, 64], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 61], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 57], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [73, 54], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [73, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [69, 51], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 480, status = 144, data = [84, 55], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [84, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [86, 50], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [86, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [84, 55], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [84, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [86, 51], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [86, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [84, 87], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [84, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [86, 70], event type: Note on
+MidiEvent : delta_time = 40, status = 144, data = [86, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [84, 66], event type: Note on
+MidiEvent : delta_time = 40, status = 144, data = [84, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 64], event type: Note on
+MidiEvent : delta_time = 40, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 62], event type: Note on
+MidiEvent : delta_time = 40, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [72, 58], event type: Note on
+MidiEvent : delta_time = 40, status = 144, data = [72, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [69, 56], event type: Note on
+MidiEvent : delta_time = 40, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [85, 61], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [85, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 61], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [73, 58], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 58], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [73, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [85, 62], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [85, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 62], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [73, 58], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 58], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [73, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [86, 62], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [86, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 62], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [74, 61], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [65, 52], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 52], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [65, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [65, 52], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 52], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [65, 0], event type: Note on
+MidiEvent : delta_time = 600, status = 144, data = [52, 40], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 40], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [52, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 43], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [64, 49], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 49], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [52, 49], event type: Note on
+MidiEvent : delta_time = 720, status = 144, data = [52, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [62, 40], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [52, 40], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [52, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 45], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [62, 48], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 48], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [52, 48], event type: Note on
+MidiEvent : delta_time = 720, status = 144, data = [52, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 480, status = 144, data = [64, 40], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 40], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [52, 40], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [52, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 600, status = 144, data = [64, 40], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 40], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [52, 40], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [52, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 480, status = 144, data = [61, 48], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [52, 48], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [52, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [61, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 48], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [52, 48], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [61, 48], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 48], event type: Note on
+MidiEvent : delta_time = 720, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [61, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [52, 0], event type: Note on
+MidiEvent : delta_time = 480, status = 144, data = [69, 76], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [71, 69], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [71, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [69, 69], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [71, 69], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [71, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [68, 68], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [68, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [67, 73], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [67, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [69, 67], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [67, 67], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [67, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [69, 67], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [66, 67], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [66, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [65, 70], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [65, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [67, 62], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [67, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [65, 62], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [65, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [67, 62], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [67, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 62], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [62, 68], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 60], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 60], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 60], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [61, 60], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [61, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [60, 64], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [60, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 57], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [60, 58], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [60, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 58], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [59, 58], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [59, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [58, 62], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [58, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 55], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [58, 54], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [58, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 54], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [57, 68], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [57, 0], event type: Note on
+MidiEvent : delta_time = 1080, status = 144, data = [70, 74], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [70, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [76, 64], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [76, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [70, 64], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [70, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [76, 64], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [76, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [69, 64], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 1080, status = 144, data = [82, 81], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [88, 74], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [88, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [82, 74], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [88, 74], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [88, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 74], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 1080, status = 144, data = [94, 86], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [94, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [100, 78], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [100, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [94, 78], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [94, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [100, 78], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [100, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [93, 78], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [93, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [82, 81], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [88, 68], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [88, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [82, 68], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [88, 68], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [88, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 68], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [70, 69], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [70, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [76, 55], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [76, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [70, 55], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [70, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [76, 55], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [76, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [69, 55], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [58, 56], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [58, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 44], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [58, 44], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [58, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 46], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [57, 46], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [57, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [81, 49], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [82, 43], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 49], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [82, 44], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 57], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [82, 60], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 58], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 55], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 52], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [69, 50], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 480, status = 144, data = [86, 50], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [86, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [88, 46], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [88, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [86, 50], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [86, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [88, 48], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [88, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [86, 57], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [86, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [88, 56], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [88, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [86, 55], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [86, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [83, 52], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [83, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [79, 51], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [79, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 49], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 480, status = 144, data = [81, 56], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [82, 50], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 56], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [82, 50], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 60], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [77, 55], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [79, 51], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [79, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 55], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [79, 51], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [79, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 64], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [81, 56], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [82, 50], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 56], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [82, 50], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 61], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [82, 56], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 51], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 49], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 44], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [69, 42], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 480, status = 144, data = [81, 55], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [82, 51], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 55], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [82, 51], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 72], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [82, 64], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [82, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 61], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 57], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [73, 54], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [73, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [69, 51], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 480, status = 144, data = [84, 55], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [84, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [86, 50], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [86, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [84, 55], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [84, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [86, 51], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [86, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [84, 87], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [84, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [86, 70], event type: Note on
+MidiEvent : delta_time = 40, status = 144, data = [86, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [84, 66], event type: Note on
+MidiEvent : delta_time = 40, status = 144, data = [84, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 64], event type: Note on
+MidiEvent : delta_time = 40, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 62], event type: Note on
+MidiEvent : delta_time = 40, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [72, 58], event type: Note on
+MidiEvent : delta_time = 40, status = 144, data = [72, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [69, 56], event type: Note on
+MidiEvent : delta_time = 40, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [85, 61], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [85, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 61], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [73, 58], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 58], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [73, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [85, 62], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [85, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 62], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [73, 58], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 58], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [73, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [86, 62], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [86, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 62], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [74, 61], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [65, 52], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 52], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [65, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [65, 52], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 52], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [65, 0], event type: Note on
+MidiEvent : delta_time = 840, status = 144, data = [45, 38], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [55, 38], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [55, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [45, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [57, 42], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [57, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [57, 45], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [55, 45], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [45, 45], event type: Note on
+MidiEvent : delta_time = 720, status = 144, data = [45, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [55, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [57, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [55, 37], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [45, 37], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [45, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [55, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [57, 39], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [57, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [57, 44], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [55, 44], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [45, 44], event type: Note on
+MidiEvent : delta_time = 720, status = 144, data = [45, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [55, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [57, 0], event type: Note on
+MidiEvent : delta_time = 480, status = 144, data = [57, 40], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [55, 40], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [45, 40], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [45, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [55, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [57, 0], event type: Note on
+MidiEvent : delta_time = 600, status = 144, data = [57, 38], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [55, 38], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [45, 38], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [45, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [55, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [57, 0], event type: Note on
+MidiEvent : delta_time = 600, status = 144, data = [57, 33], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [55, 33], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [45, 33], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [45, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [55, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [57, 0], event type: Note on
+MidiEvent : delta_time = 600, status = 144, data = [55, 33], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [45, 33], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [57, 33], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [57, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [45, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [55, 0], event type: Note on
+MidiEvent : delta_time = 480, status = 144, data = [54, 36], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [54, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [57, 36], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [57, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [62, 43], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [66, 40], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [66, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [69, 40], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [74, 44], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [66, 42], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [66, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [69, 42], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [74, 45], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [78, 42], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [78, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 42], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [86, 44], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [86, 0], event type: Note on
+MidiEvent : delta_time = 600, status = 144, data = [55, 39], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [52, 39], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 39], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [58, 39], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [58, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [55, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [52, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 600, status = 144, data = [62, 39], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [54, 39], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [57, 39], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [57, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [54, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 0], event type: Note on
+MetaEvent : delta_time = 0, status = 255, event_type = 47, length = 0,  data = [], event type: End of Track 
+MTrk length =  2635
+MetaEvent : delta_time = 0, status = 255, event_type = 3, length = 10,  data = [80, 105, 97, 110, 111, 32, 108, 101, 102, 116], event type: Sequence / Track Name 
+MidiEvent : delta_time = 0, status = 192, data = [0], event type: Program change
+MidiEvent : delta_time = 4, status = 144, data = [74, 42], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 38], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 42], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 38], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 50], event type: Note on
+MidiEvent : delta_time = 86, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [69, 30], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 30], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [69, 30], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 30], event type: Note on
+MidiEvent : delta_time = 72, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [79, 44], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [79, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [83, 40], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [83, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [79, 44], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [79, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [83, 40], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [83, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [79, 50], event type: Note on
+MidiEvent : delta_time = 81, status = 144, data = [79, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [74, 30], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [67, 30], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [67, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 30], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [67, 30], event type: Note on
+MidiEvent : delta_time = 68, status = 144, data = [67, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [74, 48], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 43], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 48], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 44], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 51], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [70, 48], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [70, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 45], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [70, 48], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [70, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 44], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [70, 55], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [70, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [74, 49], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 44], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 49], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 45], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 56], event type: Note on
+MidiEvent : delta_time = 74, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [69, 32], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 32], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 32], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [69, 32], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [77, 48], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 44], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 48], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 45], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 69], event type: Note on
+MidiEvent : delta_time = 85, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [65, 40], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [72, 40], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [72, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [65, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [65, 40], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [72, 40], event type: Note on
+MidiEvent : delta_time = 64, status = 144, data = [72, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [65, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [81, 49], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [84, 44], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [84, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 49], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [84, 45], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [84, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 69], event type: Note on
+MidiEvent : delta_time = 69, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [72, 45], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 45], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [72, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [72, 45], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 45], event type: Note on
+MidiEvent : delta_time = 44, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [72, 0], event type: Note on
+MidiEvent : delta_time = 600, status = 144, data = [62, 44], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [52, 44], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [52, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 480, status = 144, data = [52, 44], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 44], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [52, 0], event type: Note on
+MidiEvent : delta_time = 480, status = 144, data = [52, 50], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [45, 50], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [45, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [52, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [45, 50], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [52, 50], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [52, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [45, 0], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [74, 42], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 38], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 42], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 38], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 50], event type: Note on
+MidiEvent : delta_time = 80, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [62, 30], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [69, 30], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 30], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [69, 30], event type: Note on
+MidiEvent : delta_time = 72, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [79, 44], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [79, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [83, 40], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [83, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [79, 44], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [79, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [83, 40], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [83, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [79, 50], event type: Note on
+MidiEvent : delta_time = 81, status = 144, data = [79, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [67, 30], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 30], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [67, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [67, 30], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 30], event type: Note on
+MidiEvent : delta_time = 68, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [67, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [74, 48], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 43], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 48], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 44], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 51], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [70, 48], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [70, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 45], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [70, 48], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [70, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 44], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [70, 55], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [70, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [74, 49], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 44], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 49], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 45], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 56], event type: Note on
+MidiEvent : delta_time = 81, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [62, 32], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [69, 32], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 32], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [69, 32], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [77, 48], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 44], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 48], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 45], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 69], event type: Note on
+MidiEvent : delta_time = 85, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [65, 40], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [72, 40], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [72, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [65, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [65, 40], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [72, 40], event type: Note on
+MidiEvent : delta_time = 64, status = 144, data = [72, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [65, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [81, 49], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [84, 44], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [84, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 49], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [84, 45], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [84, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 69], event type: Note on
+MidiEvent : delta_time = 46, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [64, 45], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [72, 45], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [72, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 45], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [72, 45], event type: Note on
+MidiEvent : delta_time = 44, status = 144, data = [72, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 600, status = 144, data = [62, 44], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [52, 44], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [52, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 480, status = 144, data = [62, 44], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [52, 44], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [52, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 480, status = 144, data = [52, 52], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [45, 52], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [45, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [52, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [45, 52], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [52, 52], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [52, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [45, 0], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [46, 43], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [46, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [48, 43], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [48, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [46, 43], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [46, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [48, 43], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [48, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [46, 61], event type: Note on
+MidiEvent : delta_time = 1200, status = 144, data = [46, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [46, 43], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [46, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [48, 43], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [48, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [46, 43], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [46, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [48, 43], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [48, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [46, 61], event type: Note on
+MidiEvent : delta_time = 1200, status = 144, data = [46, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [46, 42], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [46, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [48, 42], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [48, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [46, 42], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [46, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [48, 40], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [48, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [46, 64], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [46, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [46, 45], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [46, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [48, 45], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [48, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [46, 63], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [46, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [46, 43], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [46, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [48, 43], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [48, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [45, 60], event type: Note on
+MidiEvent : delta_time = 960, status = 144, data = [45, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [42, 48], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [42, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [44, 48], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [44, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [40, 64], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [40, 0], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [64, 76], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [61, 76], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [61, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [63, 67], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [60, 67], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [60, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [63, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [62, 73], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [59, 73], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [59, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [58, 67], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [61, 67], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [61, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [58, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [60, 70], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [57, 70], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [57, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [60, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [56, 62], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [59, 62], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [59, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [56, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [54, 68], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [57, 68], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [54, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [53, 61], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [53, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [57, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [52, 64], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [57, 64], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [52, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [51, 58], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [51, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [57, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [50, 62], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [52, 62], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [52, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [49, 56], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [49, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [50, 0], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [40, 67], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [40, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [45, 75], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [45, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [33, 64], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [33, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [62, 72], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 72], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [61, 64], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [61, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [52, 61], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [52, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [57, 72], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [57, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [45, 56], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [45, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [74, 81], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [76, 81], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [73, 74], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [73, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [76, 0], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [64, 69], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [69, 76], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [57, 55], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [57, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [88, 84], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [86, 84], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [86, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [85, 80], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [85, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [88, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [74, 80], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [76, 80], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [73, 68], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [73, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [76, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [62, 68], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 68], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [61, 56], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [61, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [50, 55], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [52, 55], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [50, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [49, 44], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [49, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [52, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [74, 48], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 43], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 48], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 43], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 55], event type: Note on
+MidiEvent : delta_time = 103, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 600, status = 144, data = [62, 50], event type: Note on
+MidiEvent : delta_time = 72, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [79, 50], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [79, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [83, 46], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [83, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [79, 50], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [79, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [83, 46], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [83, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [79, 57], event type: Note on
+MidiEvent : delta_time = 97, status = 144, data = [79, 0], event type: Note on
+MidiEvent : delta_time = 600, status = 144, data = [67, 45], event type: Note on
+MidiEvent : delta_time = 68, status = 144, data = [67, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [74, 55], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 49], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 55], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 50], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 58], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [70, 55], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [70, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 51], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [70, 55], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [70, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 50], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [70, 62], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [70, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [74, 56], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 50], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 56], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 51], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 64], event type: Note on
+MidiEvent : delta_time = 97, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 600, status = 144, data = [62, 50], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [73, 55], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [73, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 50], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [73, 55], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [73, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 51], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [73, 73], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [73, 0], event type: Note on
+MidiEvent : delta_time = 600, status = 144, data = [61, 52], event type: Note on
+MidiEvent : delta_time = 64, status = 144, data = [61, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [77, 56], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 50], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 56], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 51], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 74], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 600, status = 144, data = [60, 54], event type: Note on
+MidiEvent : delta_time = 44, status = 144, data = [60, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [67, 54], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [57, 54], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [57, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [67, 0], event type: Note on
+MidiEvent : delta_time = 600, status = 144, data = [67, 54], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [57, 54], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [57, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [67, 0], event type: Note on
+MidiEvent : delta_time = 480, status = 144, data = [57, 50], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [50, 50], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [50, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [57, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [50, 50], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [57, 50], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [57, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [50, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [46, 42], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [46, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [48, 42], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [48, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [46, 42], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [46, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [48, 42], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [48, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [46, 61], event type: Note on
+MidiEvent : delta_time = 1200, status = 144, data = [46, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [46, 43], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [46, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [48, 43], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [48, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [46, 43], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [46, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [48, 43], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [48, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [46, 61], event type: Note on
+MidiEvent : delta_time = 1200, status = 144, data = [46, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [46, 42], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [46, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [48, 42], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [48, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [46, 42], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [46, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [48, 40], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [48, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [46, 64], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [46, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [46, 45], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [46, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [48, 45], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [48, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [46, 63], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [46, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [46, 43], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [46, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [48, 43], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [48, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [45, 60], event type: Note on
+MidiEvent : delta_time = 960, status = 144, data = [45, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [42, 48], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [42, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [44, 48], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [44, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [40, 64], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [40, 0], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [61, 76], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 76], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [61, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [63, 67], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [60, 67], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [60, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [63, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [62, 73], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [59, 73], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [59, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [58, 67], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [61, 67], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [61, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [58, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [60, 70], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [57, 70], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [57, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [60, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [59, 62], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [56, 62], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [56, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [59, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [54, 68], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [57, 68], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [54, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [53, 61], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [53, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [57, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [57, 64], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [52, 64], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [52, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [51, 58], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [51, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [57, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [50, 62], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [52, 62], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [52, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [49, 56], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [49, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [50, 0], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [40, 67], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [40, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [45, 75], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [45, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [33, 64], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [33, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [64, 72], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 72], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [61, 64], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [61, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [52, 61], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [52, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [57, 72], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [57, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [45, 56], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [45, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [74, 81], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [76, 81], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [73, 74], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [73, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [76, 0], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [64, 69], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [69, 76], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [57, 55], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [57, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [88, 86], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [86, 86], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [86, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [85, 80], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [85, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [88, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [74, 80], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [76, 80], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [73, 68], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [73, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [76, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [64, 68], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 68], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [61, 56], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [61, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [64, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [52, 55], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [50, 55], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [50, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [49, 44], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [49, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [52, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [74, 48], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 43], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 48], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 43], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 55], event type: Note on
+MidiEvent : delta_time = 86, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 600, status = 144, data = [62, 50], event type: Note on
+MidiEvent : delta_time = 72, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [79, 50], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [79, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [83, 46], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [83, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [79, 50], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [79, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [83, 46], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [83, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [79, 57], event type: Note on
+MidiEvent : delta_time = 100, status = 144, data = [79, 0], event type: Note on
+MidiEvent : delta_time = 600, status = 144, data = [67, 45], event type: Note on
+MidiEvent : delta_time = 68, status = 144, data = [67, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [74, 55], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 49], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 55], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 50], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 58], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [70, 55], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [70, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 51], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [70, 55], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [70, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 50], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [70, 62], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [70, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [74, 56], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 50], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 56], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 51], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 64], event type: Note on
+MidiEvent : delta_time = 97, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 600, status = 144, data = [62, 50], event type: Note on
+MidiEvent : delta_time = 48, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [73, 55], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [73, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 50], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [73, 55], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [73, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 51], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [73, 73], event type: Note on
+MidiEvent : delta_time = 94, status = 144, data = [73, 0], event type: Note on
+MidiEvent : delta_time = 600, status = 144, data = [61, 52], event type: Note on
+MidiEvent : delta_time = 64, status = 144, data = [61, 0], event type: Note on
+MidiEvent : delta_time = 360, status = 144, data = [77, 56], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 50], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [77, 56], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [77, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 51], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [81, 74], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [81, 0], event type: Note on
+MidiEvent : delta_time = 600, status = 144, data = [60, 54], event type: Note on
+MidiEvent : delta_time = 44, status = 144, data = [60, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [57, 54], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [67, 54], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [67, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [57, 0], event type: Note on
+MidiEvent : delta_time = 600, status = 144, data = [57, 54], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [67, 54], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [67, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [57, 0], event type: Note on
+MidiEvent : delta_time = 480, status = 144, data = [57, 50], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [50, 50], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [50, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [57, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [50, 50], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [57, 50], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [57, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [50, 0], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [39, 45], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [39, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [41, 45], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [41, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [39, 45], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [39, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [41, 45], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [41, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [39, 76], event type: Note on
+MidiEvent : delta_time = 1200, status = 144, data = [39, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [39, 45], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [39, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [41, 45], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [41, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [39, 45], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [39, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [41, 45], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [41, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [39, 76], event type: Note on
+MidiEvent : delta_time = 1200, status = 144, data = [39, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [39, 42], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [39, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [41, 42], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [41, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [39, 42], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [39, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [41, 42], event type: Note on
+MidiEvent : delta_time = 60, status = 144, data = [41, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [39, 75], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [39, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [39, 57], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [39, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [41, 57], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [41, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [39, 74], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [39, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [39, 54], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [39, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [41, 54], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [41, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [39, 64], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [39, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [39, 45], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [39, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [41, 45], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [41, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [39, 55], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [39, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [39, 36], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [39, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [41, 36], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [41, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [38, 49], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [38, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [45, 37], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [45, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [50, 37], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [50, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [54, 43], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [54, 0], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [57, 39], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [57, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 39], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [66, 44], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [66, 0], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [57, 42], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [57, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [62, 42], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [62, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [66, 45], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [66, 0], event type: Note on
+MidiEvent : delta_time = 240, status = 144, data = [69, 42], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [69, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [74, 42], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [74, 0], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [78, 43], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [78, 0], event type: Note on
+MidiEvent : delta_time = 484, status = 144, data = [33, 38], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [45, 38], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [45, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [33, 0], event type: Note on
+MidiEvent : delta_time = 452, status = 144, data = [26, 38], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [38, 38], event type: Note on
+MidiEvent : delta_time = 120, status = 144, data = [38, 0], event type: Note on
+MidiEvent : delta_time = 0, status = 144, data = [26, 0], event type: Note on
+MetaEvent : delta_time = 0, status = 255, event_type = 47, length = 0,  data = [], event type: End of Track 
+MTrk length =  36
+MetaEvent : delta_time = 0, status = 255, event_type = 3, length = 28,  data = [71, 114, 105, 101, 103, 58, 32, 86, 246, 103, 108, 101, 105, 110, 44, 32, 79, 112, 46, 32, 52, 51, 32, 78, 111, 46, 32, 52], event type: Sequence / Track Name 
+MetaEvent : delta_time = 0, status = 255, event_type = 47, length = 0,  data = [], event type: End of Track 
+MTrk length =  41
+MetaEvent : delta_time = 0, status = 255, event_type = 3, length = 33,  data = [67, 111, 112, 121, 114, 105, 103, 104, 116, 32, 169, 32, 49, 57, 57, 56, 32, 98, 121, 32, 66, 101, 114, 110, 100, 32, 75, 114, 117, 101, 103, 101, 114], event type: Sequence / Track Name 
+MetaEvent : delta_time = 0, status = 255, event_type = 47, length = 0,  data = [], event type: End of Track 
+MTrk length =  32
+MetaEvent : delta_time = 0, status = 255, event_type = 3, length = 24,  data = [104, 116, 116, 112, 58, 47, 47, 119, 119, 119, 46, 112, 105, 97, 110, 111, 45, 109, 105, 100, 105, 46, 100, 101], event type: Sequence / Track Name 
+MetaEvent : delta_time = 0, status = 255, event_type = 47, length = 0,  data = [], event type: End of Track 
+MTrk length =  27
+MetaEvent : delta_time = 0, status = 255, event_type = 3, length = 19,  data = [69, 100, 105, 116, 105, 111, 110, 58, 32, 50, 48, 49, 50, 45, 49, 49, 45, 48, 54], event type: Sequence / Track Name 
+MetaEvent : delta_time = 0, status = 255, event_type = 47, length = 0,  data = [], event type: End of Track 
